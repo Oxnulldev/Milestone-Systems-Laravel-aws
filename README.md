@@ -2,5 +2,4 @@
 
 
 
-## Getting Started
 
